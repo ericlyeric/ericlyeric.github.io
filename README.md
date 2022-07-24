@@ -1,3 +1,4 @@
+# ericlyeric.github.io
 The portfolio was built using PhaserJS.
 
 The source code can be found [here](https://github.com/ericlyeric/portfolio)
